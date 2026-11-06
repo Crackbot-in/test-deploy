@@ -1,0 +1,13 @@
+{
+  "name": "crackbot-deploy-test",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "start": "astro dev"
+  },
+  "dependencies": {
+    "astro": "^4.16.0"
+  }
+}
